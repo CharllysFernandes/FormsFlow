@@ -1,4 +1,9 @@
-PyQt5==5.15.6
+# Este arquivo requirements.txt lista as dependências do projeto.
+# Você pode criar este arquivo manualmente ou usando pip freeze.
+
+# Dependências do Python
+xlwings==0.26.2
 pandas==1.3.3
-xlwings==0.26.1
-openpyxl==3.0.9
+selenium==3.141.0
+
+# Lembre-se de verificar as versões das dependências para garantir compatibilidade.
